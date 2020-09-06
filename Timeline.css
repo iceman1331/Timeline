@@ -19,11 +19,12 @@ body {
 
 .intro {
 	background: #E86361;
-	padding: 220px 0;
-	background-image: url(4.png);
-	background-position: left bottom;
+	padding: 260px 0;
+	background-image: url(6.png);
+	background-position: right bottom;
 	background-attachment: fixed;
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 @media(max-width:500px) {
